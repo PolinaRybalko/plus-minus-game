@@ -9,4 +9,10 @@
     justify-content: center;
     align-items: center;
 }
+
+.header p{
+  font-weight: bold;
+  font-size: 1.20em;
+  color: #aaaaaa;
+}
   
