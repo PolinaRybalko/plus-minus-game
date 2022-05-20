@@ -1,0 +1,42 @@
+.button {
+  background-color: white;
+  font-family: inherit;
+  color: #9a9ca0;
+  border: 2px solid #9a9ca0;
+  /* border-radius: 4px; */
+  justify-content: center;
+  width: 100%;
+  font-size: 4rem;
+  animation-name: back;
+  animation-duration: 1s;
+}
+
+.flashed {
+  color: rgb(45, 187, 253);
+  animation-name: flash;
+  animation-duration: 1s;
+}
+.button:hover {
+  color: rgb(45, 187, 253);
+}
+
+
+@keyframes flash {
+  from {
+    background-color: white;
+  }
+  to {
+    background-color: rgb(203, 238, 255);
+  }
+}
+
+@keyframes back {
+  from {
+    background-color: rgb(203, 238, 255);
+    color: rgb(45, 187, 253);
+  }
+  to {
+    background-color: white;
+    color: #9a9ca0;
+  }
+}

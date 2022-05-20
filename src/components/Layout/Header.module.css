@@ -1,0 +1,12 @@
+.title {
+    font-family: inherit;
+    color: rgb(38, 154, 207);
+  }
+
+.header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+  
