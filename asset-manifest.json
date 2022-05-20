@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/plus-minus-game/static/css/main.25f06e82.css",
+    "main.js": "/plus-minus-game/static/js/main.0f30155b.js",
+    "index.html": "/plus-minus-game/index.html",
+    "main.25f06e82.css.map": "/plus-minus-game/static/css/main.25f06e82.css.map",
+    "main.0f30155b.js.map": "/plus-minus-game/static/js/main.0f30155b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25f06e82.css",
+    "static/js/main.0f30155b.js"
+  ]
+}
