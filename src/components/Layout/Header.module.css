@@ -1,5 +1,5 @@
 .title {
-    font-family: inherit;
+    font-family: Arial, Helvetica, sans-serif;
     color: rgb(38, 154, 207);
   }
 
@@ -11,6 +11,7 @@
 }
 
 .header p{
+  font-family: Arial, Helvetica, sans-serif;;
   font-weight: bold;
   font-size: 1.20em;
   color: #aaaaaa;
