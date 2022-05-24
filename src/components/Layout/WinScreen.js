@@ -10,7 +10,7 @@ const WinScreen = (props) => {
         <Modal onClick = {clickHandler}>
             <div className={styles['win-screen']}>
                 <h1>YOU WIN!!!</h1>
-                <Button onClick = {clickHandler} label="Awwwww, let me try one more time!"></Button>
+                <Button onClick = {clickHandler} label="Try again"></Button>
             </div>
         </Modal>
     )
