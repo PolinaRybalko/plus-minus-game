@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/plus-minus-game/static/css/main.48b8ac42.css",
+    "main.css": "/plus-minus-game/static/css/main.8a12ee94.css",
     "main.js": "/plus-minus-game/static/js/main.51c8be65.js",
     "index.html": "/plus-minus-game/index.html",
-    "main.48b8ac42.css.map": "/plus-minus-game/static/css/main.48b8ac42.css.map",
+    "main.8a12ee94.css.map": "/plus-minus-game/static/css/main.8a12ee94.css.map",
     "main.51c8be65.js.map": "/plus-minus-game/static/js/main.51c8be65.js.map"
   },
   "entrypoints": [
-    "static/css/main.48b8ac42.css",
+    "static/css/main.8a12ee94.css",
     "static/js/main.51c8be65.js"
   ]
 }
