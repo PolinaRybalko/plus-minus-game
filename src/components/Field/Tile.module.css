@@ -8,6 +8,7 @@
   font-size: 4rem;
   animation-name: back;
   animation-duration: 1s;
+  padding: 0.1rem;
 }
 
 .flashed {
